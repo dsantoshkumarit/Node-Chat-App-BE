@@ -1,0 +1,6 @@
+package.json>start
+.env file
+
+check cors data in server.js
+
+catcherrors in /routes/User.js
