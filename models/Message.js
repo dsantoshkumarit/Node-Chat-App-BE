@@ -12,7 +12,7 @@ const messageSchema = new mongoose.Schema({
     ref: "User",
   },
   message: {
-    type: mongoose.Schema.Types.ObjectId,
+    type:String,
     required: "Message is required !",
   },
 });
